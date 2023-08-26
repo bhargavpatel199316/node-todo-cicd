@@ -1,4 +1,4 @@
-version: V1
+version: "3.9"
 
 services:
   web:
